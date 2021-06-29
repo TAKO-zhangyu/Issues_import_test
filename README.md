@@ -11,13 +11,14 @@ https://github.com/gavinr/github-csv-tools
 3. GitHubのリポジトリのトークンを作成する -> https://github.com/settings/tokens
 4. githubCsvTools CSVファイル名を実行する
 
-トークンに関して（公式GitHubから引用、翻訳）
+## 追記
+**トークンに関して（公式GitHubから引用、翻訳）**
 1. このリンクに遷移 -> https://github.com/settings/tokens
 2. "Generate New Token"をクリック
 3. "repo" をクリック
 4. コピーする。実行時にトークンを求められたときに貼り付けて実行する。
 
-CSVファイルの作成
+**CSVファイルの作成に関して**
 - Markdownの記述について
 タイトルと説明文のみの場合、以下のような記述でMarkdown記法が使用できる
 ---
